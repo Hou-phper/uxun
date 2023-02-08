@@ -1,0 +1,86 @@
+{
+	"home": {
+		"login": "钱包登陆",
+		"home": "首页",
+		"assets": "资产",
+		"pool": "幸运池",
+		"profit": "我的收益",
+		"order-record": "挂单记录",
+		"auction-order": "链拍订单",
+		"delivery-order": "交割订单",
+		"nft": "NFT展区",
+		"introduce": "玩法介绍",
+		"invite-url": "生成邀请链接",		
+		"superior-address": "上级地址",
+		"bind-superior": "绑定上级",
+		"no-superior": "未检测到上级地址，请通过邀请链接打开",
+		"binding": "绑定",
+		"not-logged": "账户未绑定上级"
+	},
+	"assets": {
+		"assets": "资产列表",
+		"account": "账户"
+	},
+	"yuyue": {
+		"yylist": "预约列表",
+		"balance": "余额",
+		"purchase-or-not": "是否购买并预约该场次"
+	},
+	"ticket": {
+		"ticket": "入场券",
+		"all": "全部",
+		"no-use": "未使用",
+		"used": "已使用",
+		"redeemed": "已赎回",
+		"notes": "规定时间内使用 过期无效",
+		"examine": "链上审核",
+		"failed": "失败"
+	},
+	"order": {
+		"my-order": "我的订单",
+		"pending": "待付款",
+		"completed": "已完成",
+		"expired": "已失效",
+		"surplus": "剩余",
+		"addr": "归属地址",
+		"continue": "继续付款",
+		"remarks": "备注",
+		"timeout": "订单超时",
+		"order": "订单",
+		"payment": "实付金额",
+		"confirm": "确认支付",
+		"chain": "正在链上确认",		
+		"buy": "买单",
+		"sell": "卖单",
+		"close": "订单关闭",
+		"shelf": "上架中",
+		"transaction": "交易中",
+		"successful": "交易成功",
+		"failed": "交易失败",
+		"name": "场次",
+		"launch-time": "上架时间",
+		"price": "价格",
+		"sell-id": "卖方ID",
+		"buy-id": "买方ID"
+	},
+	"exchange": {
+		"exchange": "兑换",
+		"placeholder": "请输入兑换数量",
+		"confirm": "确认兑换",
+		"record": "兑换记录",
+		"exchanging": "正在链上兑换",
+		"successed": "兑换成功",
+		"failed": "兑换失败"
+	},
+	"auction": {
+		"auction": "链拍",
+		"confirm": "确认订单",
+		"place-order": "确认下单",
+		"sessions": "链拍场次"
+	},
+	"public": {
+		"tips": "提示",
+		"loading": "正在加载",
+		"loading-all": "已加载全部数据"
+	}
+}

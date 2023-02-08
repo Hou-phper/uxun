@@ -1,0 +1,86 @@
+{
+	"home": {
+		"login": "Login",
+		"home": "Home",
+		"assets": "Assets",
+		"pool": "Lucky pool",
+		"profit": "My earnings",
+		"order-record": "Pending record",
+		"auction-order": "Auction order",
+		"delivery-order": "Delivery order",
+		"nft": "NFT area",
+		"introduce": "Introduction",
+		"invite-url": "Generate invitation link",		
+		"superior-address": "Superior address",
+		"bind-superior": "Bind superior",
+		"no-superior": "The superior address is not detected, please open it through the invitation link",
+		"binding": "Binding",
+		"not-logged": "Account is not bound to superior"
+	},
+	"assets": {
+		"assets": "Assets",
+		"account": "Account"
+	},
+	"yuyue": {
+		"yylist": "Subscribe List",
+		"balance": "Balance",
+		"purchase-or-not": "Whether to purchase and make an appointment for the show"
+	},
+	"ticket": {
+		"ticket": "Ticket",
+		"all": "All",
+		"no-use": "Not used",
+		"used": "Used",
+		"redeemed": "Redeemed",
+		"notes": "Invalid after expiration within the specified time",
+		"examine": "Audit",
+		"failed": "Fail"
+	},
+	"order": {
+		"my-order": "My order",
+		"pending": "Pending",
+		"completed": "Completed",
+		"expired": "Expired",
+		"surplus": "Surplus",
+		"addr": "Home address",
+		"continue": "Payment",
+		"remarks": "Remarks",
+		"timeout": "Order timeout",
+		"order": "Order",
+		"payment": "Paid in amount",
+		"confirm": "Confirm",
+		"chain": "Confirming on the chain",		
+		"buy": "Buy",
+		"sell": "Sell",
+		"close": "Order closed",
+		"shelf": "On the shelf",
+		"transaction": "In transaction",
+		"successful": "Successful",
+		"failed": "Failed",
+		"name": "Sessions",
+		"launch-time": "Launch time",
+		"price": "Price",
+		"sell-id": "Sell-ID",
+		"buy-id": "Buy-ID"
+	},
+	"exchange": {
+		"exchange": "Exchange",
+		"placeholder": "Enter the quantity",
+		"confirm": "Confirm",
+		"record": "Record",
+		"exchanging": "exchanging",
+		"successed": "Successful",		
+		"failed": "Failed"
+	},
+	"auction": {
+		"auction": "Auction",
+		"confirm": "Order",
+		"place-order": "Confirm",
+		"sessions": "Sessions"
+	},
+	"public": {
+		"tips": "Tips",
+		"loading": "Loading",
+		"loading-all": "All data loaded"
+	}
+}
